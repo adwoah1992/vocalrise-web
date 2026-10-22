@@ -1,0 +1,17 @@
+{
+  "name": "VocalRise",
+  "short_name": "VocalRise",
+  "start_url": "/vocalrise-web/",
+  "scope": "/vocalrise-web/",
+  "display": "standalone",
+  "background_color": "#5B2A86",
+  "theme_color": "#5B2A86",
+  "icons": [
+    {
+      "src": "/vocalrise-web/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
